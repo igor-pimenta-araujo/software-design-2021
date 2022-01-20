@@ -1,0 +1,3 @@
+# Avaliação 3
+
+A solução que eu tinha imaginado não é completa iguala solução do site https://kyriosdata.github.io/desafio4x4/ porque eu não considerei como implementar e nem otimizar o algoritimo de soluções do desafio 4x4. Porém agora eu consigo fazer uma solução melhor e que vai além de ser implementada, terá uma performance otimizada e as regras do algoritmo melhor definidas para gerar a solução.
